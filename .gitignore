@@ -1,0 +1,6 @@
+*.txt
+*.xml
+*.log
+.env
+__pycache__/
+*.pyc
