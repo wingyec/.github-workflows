@@ -17,7 +17,6 @@ RSS_FEEDS = [
     # 美股 / 經濟
     "https://www.cnbc.com/id/100003114/device/rss/rss.html",
     "https://feeds.content.dowjones.io/public/rss/mw_topstories",
-    "https://finance.yahoo.com/news/rssindex",
     "https://feeds.bbci.co.uk/news/business/rss.xml",
     # AI / 科技
     "https://techcrunch.com/feed/",
